@@ -5,7 +5,10 @@
 ```shell
 docker compose up -d
 ```
-
+In case you need a hyphen to save you:
+```shell
+docker-compose up -d
+```
 ### Building the ingestion pipeline
 
 ```shell
